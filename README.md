@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'SUITE';
@@ -12,7 +12,7 @@ font-family: 'SUITE';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/SUITE/SUITE.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/SUITE/SUITE.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -101,4 +101,13 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SUITE/SUITE-Heavy.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SUITE/SUITE-Heavy.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+SUITE―스위트는 오픈소스입니다. SIL Open Font License에 따라 개인 또는 기업이 영리적, 비영리적 목적으로 자유롭게 사용할 수 있습니다. 
+단, SUITE를 단독 판매하면 안 됩니다. SUITE에 대한 제안 및 문의는 이메일로 보내주세요.
 ```
